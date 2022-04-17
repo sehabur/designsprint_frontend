@@ -1,0 +1,8 @@
+{
+  "name": "DesignSprint",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
